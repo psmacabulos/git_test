@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+Hello Odin! This is my review of the foundations course
